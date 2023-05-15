@@ -1,0 +1,7 @@
+version: '3'
+services:
+  audio_processing:
+    build: .
+    volumes:
+      - ./:/audio_processing
+    working_dir: /audio_processing
