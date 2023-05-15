@@ -2,7 +2,7 @@
 
 This repository contains supplemental code for the [PyxY.ai project](https://pyxy.ai/).
 
-The data can be found on [Zenodo](https://zenodo.org/record/5527700).
+The data can be found on [Zenodo](https://zenodo.org/record/7857970).
 
 The code is available on [GitHub](https://github.com/medsensio/mscad-code).
 
